@@ -9,6 +9,7 @@ User's location is pulled using the CoreLocation API and weather forecasts are g
 
 ###Core:
 Swift
+
 Alamofire
 
 ###Data:
